@@ -1,7 +1,7 @@
 #Elemen dalam tiple tidak bisa diubah atau unchangeable
 
 thistuple = ("apple", "banana", "cherry")
-print(thistuple) #Mencetak semua item di dalam value
+print(thistuple) #Mencetak semua item di dalam tuple
 
 thistuple = ("apple", "banana", "cherry")
 print(len(thistuple)) #Mengecek berapa banyak item di dalam tuple
