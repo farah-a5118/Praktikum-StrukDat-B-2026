@@ -43,6 +43,6 @@ x = car.values() #Untuk mengecek value yang ada di dalam dictionary, dan akan me
 
 print(x)
 
-car["year"] = 2020 #Value dalam variabel year akan berubah menjadi 2020
+car["year"] = 2020 #Value dalam key year akan berubah menjadi 2020
 
 print(x)
