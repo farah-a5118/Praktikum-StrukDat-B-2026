@@ -9,3 +9,12 @@ print(hanya_A)
 
 seluruh = kelas_A.union(kelas_B) #Mencetak semua mata kuliah dari kedua kelas
 print(seluruh)
+
+irisan = kelas_A & kelas_B
+print(irisan)
+
+beda = kelas_A - kelas_B
+print(beda)
+
+unik = kelas_A | kelas_B
+print(unik)
