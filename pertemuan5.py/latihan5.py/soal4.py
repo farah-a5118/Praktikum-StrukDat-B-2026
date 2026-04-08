@@ -27,6 +27,7 @@ print(transaksi)
 #Tambah produk baru
 transaksi.append({"produk": "Tipe-x", "harga": 3000, "jumlah": 5})
 transaksi.append({"produk": "Penggaris", "harga": 5000, "jumlah": 7})
+print(transaksi)
 
 #Hitung total pendapatan
 for x in transaksi:

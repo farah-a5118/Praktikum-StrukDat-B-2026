@@ -18,3 +18,6 @@ print(beda)
 
 unik = kelas_A | kelas_B
 print(unik)
+
+simetri = kelas_A ^ kelas_B
+print(simetri)
